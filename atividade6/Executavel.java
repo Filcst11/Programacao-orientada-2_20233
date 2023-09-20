@@ -28,7 +28,9 @@ public class Executavel {
         
         //Mostrando
         System.out.println(P1.toString());
+        System.out.println("\n\nReprodução: ");
         P1.reproducao();
+        System.out.println("\n\nFotossíntese: ");
         P1.fotossintese();
     
     //GIMNOSPERMAS
@@ -39,7 +41,9 @@ public class Executavel {
         
         //Mostrando
         System.out.println(G1.toString());
+        System.out.println("\n\nReprodução: ");
         G1.reproducao();
+        System.out.println("\n\nFotossíntese: ");
         G1.fotossintese();
         
 
@@ -51,7 +55,9 @@ public class Executavel {
         
         //Mostrando
         System.out.println(A1.toString());
+        System.out.println("\n\nReprodução: ");
         A1.reproducao();
+        System.out.println("\n\nFotossíntese: ");
         A1.fotossintese();
         
     }
