@@ -1,1 +1,4 @@
-# Programacao-orientada-2_20233
+# Programação Orientada a Objetos
+Professor: João Pedro Macleure
+Aluno: Felipe Costa da Silva
+Universidade Católica de Brasília
