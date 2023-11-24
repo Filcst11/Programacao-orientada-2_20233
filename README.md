@@ -1,4 +1,4 @@
 # Programação Orientada a Objetos 
-- Professor: João Pedro Macleure
+* Professor: João Pedro Macleure
 * Aluno: Felipe Costa da Silva
-$ Universidade Católica de Brasília
+* Universidade Católica de Brasília
